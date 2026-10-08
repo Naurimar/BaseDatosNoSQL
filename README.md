@@ -7,7 +7,7 @@ Caso: Unidad de Emprendimiento del SENA (simulación didáctica).
 
 ## Estructura
 - `diagnostico/`: diagnóstico individual, teoría, autoevaluación y P1–P3.
-- `docs/`: documentación de A2, A3, A4 y A5.
+- `docs/`: documentación y diagnostico.
 - `scripts/`: script de exploración MongoDB.
 - `evidencias/`: capturas y resultados reales que debe agregar el aprendiz.
 
